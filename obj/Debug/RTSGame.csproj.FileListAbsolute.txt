@@ -1,0 +1,5 @@
+C:\Users\tyswa\source\repos\RTSGame\RTSGame\obj\Debug\RTSGame.csprojResolveAssemblyReference.cache
+C:\Users\tyswa\source\repos\RTSGame\RTSGame\obj\Debug\RTSGame.Form1.resources
+C:\Users\tyswa\source\repos\RTSGame\RTSGame\obj\Debug\RTSGame.Properties.Resources.resources
+C:\Users\tyswa\source\repos\RTSGame\RTSGame\obj\Debug\RTSGame.csproj.GenerateResource.Cache
+C:\Users\tyswa\source\repos\RTSGame\RTSGame\obj\Debug\RTSGame.csproj.CoreCompileInputs.cache
